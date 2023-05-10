@@ -2,21 +2,15 @@
   "users": [
     {
       "id": "1",
-      "name": "Bill Remittance",
-      "email": "bladexdesigns@gmail.com",
-      "link": "https://www.dropbox.com/s/y29g3xi6wqj5g32/Bill%20Remittance.pdf?dl=1"
+      "name": "Paper 1 Syllabus",
+      "email": "Engg. Subordinate Exam",
+      "link": "https://www.dropbox.com/s/d7nl63yi6ul01y6/syllabus_paper_1.pdf?dl=1"
     },
     {
       "id": "2",
-      "name": "Tariff",
-      "email": "saini.abhishek@gmail.com",
-      "link": "https://pspcl.in/pdfs/twenty-nineteen/10/General-Conditions-and-Schedule-of-Tariff.pdf"
-    },
-    {
-      "id": "3",
-      "name": "Abhishek Saini",
-      "email": "saini.abhishek@gmail.com",
-      "link":  "https://firebasestorage.googleapis.com/v0/b/helpdesk-36523.appspot.com/o/11KV%20CTPT%20Room%20Instruction.pdf?alt=media&token=91995086-3077-4241-a150-3d4e8d224297"
+      "name": "Study Material coming soon",
+      "email": "Work in Progress",
+      "link": "https://www.dropbox.com/s/d7nl63yi6ul01y6/syllabus_paper_1.pdf?dl=1"
     }
 
   ]
