@@ -2,19 +2,19 @@
   "users": [
     {
       "id": "1",
-      "name": "Supply Manual",
+      "name": "Circular 1",
       "email": "saini.abhishek@gmail.com",
       "link": "https://www.dropbox.com/s/y29g3xi6wqj5g32/Bill%20Remittance.pdf?dl=1"
     },
     {
       "id": "2",
-      "name": "Tariff",
+      "name": "Circular 2",
       "email": "saini.abhishek@gmail.com",
       "link": "https://pspcl.in/pdfs/twenty-nineteen/10/General-Conditions-and-Schedule-of-Tariff.pdf"
     },
     {
       "id": "3",
-      "name": "Abhishek Saini",
+      "name": "Circular 3",
       "email": "saini.abhishek@gmail.com",
       "link": "https://pspcl.in/pdfs/twenty-nineteen/10/General-Conditions-and-Schedule-of-Tariff.pdf"
     }
